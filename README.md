@@ -11,5 +11,9 @@ The dataset is named 'nomination_level_data.csv' and comes with the associated d
 
 The R script 'Limited dataset reproduction.R' contains code to reproduce the key findings from our study, where possible, from this reduced dataset. 
 
-<a href="https://github.com/MrConradHarrison/EMCAT-2/blob/main/nomination_level_data.csv">nomination_level_data.csv</a> © 2025 by <a href="https://www.ndorms.ox.ac.uk/team/conrad-harrison">Conrad Harrison</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+The dataset is freely available under a CC BY 4.0 license. You are welcome to use it for secondary analysis, but we ask that you please cite our paper when doing so. 
+
+If you have any questions, please reach out to us at conrad.harrison@ndorms.ox.ac.uk
+
+<a href="https://github.com/MrConradHarrison/EMCAT-2/blob/main/nomination_level_data.csv">nomination_level_data.csv</a> © 2025 by <a href="https://www.ndorms.ox.ac.uk/team/conrad-harrison">Conrad Harrison</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 0.7em;max-height:0.7em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 0.7em;max-height:0.7em;margin-left: .2em;">
 
