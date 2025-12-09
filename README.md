@@ -1,5 +1,5 @@
 # EMCAT-2
-Ecological momentary computerized adaptive testing (EMCAT) to measure and compare recovery after hand surgery
+## Ecological momentary computerized adaptive testing (EMCAT) to measure and compare recovery after hand surgery
 
 Welcome to the EMCAT-2 repository. Here you will find an anonymized version of the dataset collected during our study 'Ecological Momentary Computerized Adaptive Testing (EMCAT) to measure and compare recovery after hand surgery' (EMCAT-2). Due to local information governance policies and UK data protection laws, we have removed fields from the dataset to ensure that none of our participants are reasonably likely to be identified either directly, or indirectly through singling out or data linkage. 
 
