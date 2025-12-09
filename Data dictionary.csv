@@ -1,0 +1,32 @@
+﻿Variable name,Values,Description
+studyID,"""ID1"", ""ID2"", ""ID3""….",Unique identifier for each participant in the study
+postOpDay,Numeric,The number of days that have elapsed between the treatment and completion of the assessment
+testCode,"""PEMCAT""",The computerised adaptive testing version of the Patient Evaluation Measure Part 2
+,"""PEMFL""",The fixed full-length version of the Patient Evaluation Measure Part 2
+,"""UES""",The User Engagement Scale
+status,Complete,Indicates that the questionnaire is complete
+,Incomplete,Indicates that the questionnaire has not been completed
+secondsTaken,Numeric,Time in seconds between starting and completing the questionnaire
+secondsTakenSinceNotification,Numeric,Time in seconds  between the notification being sent to the participant and the questionnaire being completed
+theta,Numeric,Z-score for the computerised adaptive testing and fixed full-length versions of the Patient Evaluation Measure
+sem,Numeric,Standard error of measurement associated with theta
+itemsAdministeredNum,Numeric,The number of items that were administered in each assessment
+condition,"""Carpal tunnel syndrome""",The participant was being treated for carpal tunnel syndrome
+,"""Dupuytren's contracture""",The participant was being treated for Duputren's contracture
+,"""Thumb-base osteoarthritis""",The participant was being treated for thumb-base osteoarthritis
+,"""Trigger finger""",The participant was being treated for trigger finger
+treatment,Percutaneous or endoscopic carpal tunnel release,The participant underwent either a pecutaneous or endoscopic carpal tunnel decompression
+,Standard carpal tunnel release,"The participant underwent a standard, open carpal tunnel decompression"
+,Dupuytren's fasciectomy,The participant underwent a limited fasciectomy
+,Percutaneous needle fasciotomy,The participant underwent a percutaneous needle fasciotomy
+,Steroid injection for thumb-base osteoarthritis,The participant underwent a steroid injection to the thumb carpo-metacarpal joint for osteoarthritis
+,Thumb-base arthroplasty,The participant underwent a replacement of the thumb carpo-metacarpal joint for osetoarthritis
+,Trapeziectomy,The participant underwent a trapeziectomy for osetoarthritis
+,A1 pulley release,The participant underwent a standard open A1 pulley for trigger finger
+,Steroid injection for trigger finger,The participant underwent a steroid injection for trigger finger
+ctsFollowUpNeeded,"""Yes""","The follow-up (for standard open carpal tunnel decompression) resulted in either an investigation, intervention, referral or further clinical appointment"
+,"""No""",The follow-up (for standard open carpal tunnel decompression) resulted in the participant being discharged from clinical follow-up
+,,
+,,
+,,
+,,
